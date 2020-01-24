@@ -1,0 +1,10 @@
+/** 
+	Author: Geterry Sidbury-Crawford
+	Date: 	3-12-18
+	Section:CSC 120
+	Desc: This is a program for measuring Squirrel Parties
+*/
+import java.util.Scanner;
+public class GratuitySidburyCrawfordGeterry {
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
